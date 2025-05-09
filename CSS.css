@@ -1,0 +1,62 @@
+/* Basic Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Body Styling */
+  body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color:antiquewhite;
+    color: #333;
+    padding: 20px;
+  }
+  
+  /* Header Styling */
+  header {
+    background-color: #35424a;
+    color: #ffffff;
+    padding: 20px 0;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  /* Main Content Styling */
+  main {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  /* Section Styling */
+  section {
+    margin-bottom: 20px;
+  }
+  
+  /* Image Styling */
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  /* Button Styling */
+  button {
+    padding: 10px 20px;
+    background-color: #35424a;
+    color: #ffffff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #1f2a30;
+  }
+  
+  /* Footer Styling */
+  footer {
+    text-align: center;
+    margin-top: 40px;
+    color: #777;
+  }
+  
